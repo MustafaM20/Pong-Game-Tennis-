@@ -1,0 +1,25 @@
+What is Pong:
+
+Pong is a table-tennis themed arcade game featuring 2D graphics. This version of pong uses a tennis theme to help enrichen the game visually. There are 2 tennis players on
+each side of the court and they are hitting the ball back and forth.
+
+Rules:
+
+There is only one rule in pong. MAKE SURE THE BALL DOESN"T GO PAST YOU. Each time the ball goes past you, into the endless void behind you the other person gets a point. 
+This game goes up to 5 points. Also, keep in mind in Pong, after each hit by the paddle, the ball speeds up. Make sure your reflexes are sharp! One final tip is to
+remember the character images are meant to replicate rectangles. Because of this DO NOT TRY TO HIT THE BALL WITH EITHER THE TOP OR BOTTOM OF YOUR CHARACTER. The ball
+will most likely glitch out, and you will lose the point. Make sure to hit the ball with the front of your character. :)
+
+Controls:
+
+Player 1
+
+W - To move paddle up.
+S - To move paddle down.
+
+Player 2
+
+Up Arrow - To move paddle up.
+Down Arrow - To move paddle down.
+
+Have fun playing pong!!
